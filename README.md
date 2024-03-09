@@ -62,6 +62,38 @@ Static Testing  - SonarQube local code analysis
 
 
 
+[![scanning-project.png](https://i.postimg.cc/ZnF9yB1X/scanning-project.png)](https://postimg.cc/WqzpB3p7)
+
+
+
+
+### Scanner project in Sonarqube
+
+[![project-in-sonarqube.png](https://i.postimg.cc/4dcHsFwf/project-in-sonarqube.png)](https://postimg.cc/zbJGk796)
+
+
+
+### Issues
+
+
+#### Reliability
+
+[![reliability.png](https://i.postimg.cc/Vvcr6BHj/reliability.png)](https://postimg.cc/R6XVpfmF)
+
+
+
+#### Maintainability
+
+
+[![issues.png](https://i.postimg.cc/ZK4vzHNm/issues.png)](https://postimg.cc/nMShvvTS)
+
+
+#### Code Smell
+[![code-smell.png](https://i.postimg.cc/44zH0qmw/code-smell.png)](https://postimg.cc/dDV0kWRT)
+
+
+[![code-smell-2.png](https://i.postimg.cc/W4CJRPGY/code-smell-2.png)](https://postimg.cc/7C1L7dQS)
+
 
 
 
